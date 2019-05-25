@@ -1,4 +1,4 @@
-0.0.0.0:8080 {
+0.0.0.0:1234{
   tls off
   log stdout
   errors stderr
